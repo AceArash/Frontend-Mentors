@@ -20,6 +20,8 @@ The designs were created to the following widths:
 
 ### Neutral
 
+<!-- Done -->
+
 - Gray: hsl(0, 0%, 59%)
 - Very Dark Blue: hsl(209, 33%, 12%)
 
@@ -27,14 +29,20 @@ The designs were created to the following widths:
 
 ### Body Copy
 
+<!-- Done -->
+
 - Font size: 20px
 
 ### Fonts
+
+<!-- Done -->
 
 - Family: [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)
 - Weights: 300, 600, 700
 
 ## Icons
+
+<!-- Done -->
 
 For the social icons, you can use a font icon library. Some suggestions can be found below:
 

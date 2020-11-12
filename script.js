@@ -6,7 +6,8 @@ const projects = [
     'fylo-landing-page-with-two-column-layout-master' ,
     'huddle-landing-page-with-alternating-feature-blocks-master',
     'huddle-landing-page-with-single-introductory-section-master',
-    'ping-coming-soon-page-master'
+    'ping-coming-soon-page-master',
+    'insure-landing-page-master'
 
 ];
 

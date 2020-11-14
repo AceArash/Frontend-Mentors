@@ -7,7 +7,8 @@ const projects = [
     'huddle-landing-page-with-alternating-feature-blocks-master',
     'huddle-landing-page-with-single-introductory-section-master',
     'ping-coming-soon-page-master',
-    'insure-landing-page-master'
+    'insure-landing-page-master',
+    'pricing-component-with-toggle-master'
 
 ];
 

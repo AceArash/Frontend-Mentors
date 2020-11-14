@@ -20,4 +20,6 @@ Frontend Mentors Challenges🚀 :
 
 9.Fylo Landing Page - Link (https://serene-ptolemy-9a4429.netlify.app/fylo-landing-page-with-two-column-layout-master/index.html)
 
-10. Work-In-Progress!
+10. Pricing component with Toggle - Link (https://serene-ptolemy-9a4429.netlify.app/pricing-component-with-toggle-master/index.html)
+
+11. Work-In-Progress!

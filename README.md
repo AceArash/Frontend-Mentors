@@ -22,4 +22,6 @@ Frontend Mentors Challenges🚀 :
 
 10. Pricing component with Toggle - Link (https://serene-ptolemy-9a4429.netlify.app/pricing-component-with-toggle-master/index.html)
 
-11. Work-In-Progress!
+11. Project tracking intro - Link (https://serene-ptolemy-9a4429.netlify.app/project-tracking-intro-component-master/index.html)
+
+12. Work-In-Progress!

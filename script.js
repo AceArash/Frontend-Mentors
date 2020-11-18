@@ -10,6 +10,7 @@ const projects = [
     'insure-landing-page-master',
     'pricing-component-with-toggle-master',
     'project-tracking-intro-component-master'
+    'static-job-listings-master'
 
 ];
 

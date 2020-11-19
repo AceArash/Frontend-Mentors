@@ -24,4 +24,6 @@ Frontend Mentors Challenges🚀 :
 
 11. Project tracking intro - Link (https://serene-ptolemy-9a4429.netlify.app/project-tracking-intro-component-master/index.html)
 
-12. Work-In-Progress!
+12. Profile Card component - Link (https://serene-ptolemy-9a4429.netlify.app/profile-card-component-main/index.html)
+
+13. Work-In-Progress!

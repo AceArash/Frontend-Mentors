@@ -9,8 +9,9 @@ const projects = [
     'ping-coming-soon-page-master',
     'insure-landing-page-master',
     'pricing-component-with-toggle-master',
-    'project-tracking-intro-component-master'
-    'static-job-listings-master'
+    'project-tracking-intro-component-master',
+    'static-job-listings-master',
+    'profile-card-component-main'
 
 ];
 

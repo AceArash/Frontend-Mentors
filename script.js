@@ -1,8 +1,8 @@
 const projects = [
-    'four-card-feature-section-master ' , 
-    'signup-form-master ' ,  
-    'base-apparel-coming-soon-master ' , 
-    'single-price-grid-component-master ',
+    'four-card-feature-section-master', 
+    'signup-form-master',  
+    'base-apparel-coming-soon-master', 
+    'single-price-grid-component-master',
     'fylo-landing-page-with-two-column-layout-master' ,
     'huddle-landing-page-with-alternating-feature-blocks-master',
     'huddle-landing-page-with-single-introductory-section-master',

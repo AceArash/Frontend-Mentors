@@ -16,9 +16,9 @@ Frontend Mentors Challenges🚀 :
 
 7.  Insure Landing Page - Link (https://serene-ptolemy-9a4429.netlify.app/insure-landing-page-master/index.html)
 
-8.Huddle Single Section - Link (https://serene-ptolemy-9a4429.netlify.app/huddle-landing-page-with-single-introductory-section-master/index.html)
+8   Huddle Single Section - Link (https://serene-ptolemy-9a4429.netlify.app/huddle-landing-page-with-single-introductory-section-master/index.html)
 
-9.Fylo Landing Page - Link (https://serene-ptolemy-9a4429.netlify.app/fylo-landing-page-with-two-column-layout-master/index.html)
+9.  Fylo Landing Page - Link (https://serene-ptolemy-9a4429.netlify.app/fylo-landing-page-with-two-column-layout-master/index.html)
 
 10. Pricing component with Toggle - Link (https://serene-ptolemy-9a4429.netlify.app/pricing-component-with-toggle-master/index.html)
 
@@ -26,4 +26,4 @@ Frontend Mentors Challenges🚀 :
 
 12. Profile Card component - Link (https://serene-ptolemy-9a4429.netlify.app/profile-card-component-main/index.html)
 
-13. Work-In-Progress!
+13. Work-In-Progress! Link :- https://www.frontendmentor.io/challenges

@@ -11,7 +11,9 @@ const projects = [
     'pricing-component-with-toggle-master',
     'project-tracking-intro-component-master',
     'static-job-listings-master',
-    'profile-card-component-main'
+    'profile-card-component-main',
+    'coding-bootcamp-testimonials-slider-master',
+    
 
 ];
 

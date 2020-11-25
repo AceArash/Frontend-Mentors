@@ -1,19 +1,21 @@
-const projects = [
-    'four-card-feature-section-master', 
-    'signup-form-master',  
+const projects = [          
     'base-apparel-coming-soon-master', 
-    'single-price-grid-component-master',
+    'clipboard-landing-page-master',
+    'coding-bootcamp-testimonials-slider-master',      
+    'four-card-feature-section-master',    
     'fylo-landing-page-with-two-column-layout-master' ,
     'huddle-landing-page-with-alternating-feature-blocks-master',
     'huddle-landing-page-with-single-introductory-section-master',
-    'ping-coming-soon-page-master',
     'insure-landing-page-master',
+    'mini-virtual-bootcamp',
+    'ping-coming-soon-page-master',
     'pricing-component-with-toggle-master',
-    'project-tracking-intro-component-master',
-    'static-job-listings-master',
     'profile-card-component-main',
-    'coding-bootcamp-testimonials-slider-master',
-    
+    'project-tracking-intro-component-master',    
+    'signup-form-master',
+    'single-price-grid-component-master',
+    'social-proof-section-master',
+    'static-job-listings-master'
 
 ];
 

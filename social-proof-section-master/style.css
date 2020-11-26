@@ -1,17 +1,391 @@
-/* Importing Font */
-@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;700&display=swap");
-
-/* Body */
 body {
-  font-family: "Spartan", sans-serif;
   font-size: 15px;
+  font-family: "Spartan";
+  background-image: url("./images/bg-pattern-top-mobile.svg"),
+    url("./images/bg-pattern-bottom-mobile.svg");
+  background-position: left top, right bottom;
+  background-repeat: no-repeat, no-repeat;
+  height: 1530px;
+  width: 375px;
+  margin: auto;
+  margin-top: 10px;
 }
 
-/* Attribution */
+.container {
+  height: 1365px;
+  width: 327px;
+  margin-top: 15px;
+  margin-left: 26px;
+  margin-right: 26px;
+}
+
+.introduction {
+  height: 323px;
+  width: 238px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  align-items: center;
+  margin-left: 26px;
+  margin-right: 26px;
+  color: hsl(300, 43%, 22%);
+}
+
+.subtitle {
+  width: 340px;
+  font-weight: 500;
+  line-height: 24px;
+  color: hsl(303, 10%, 53%);
+  text-align: center;
+}
+
+.ratings {
+  height: 266px;
+  width: 327px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  width: 300px;
+  align-items: center;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.reviews {
+  height: 78px;
+  width: 327px;
+  align-self: center;
+  background-image: url("./images/icon-star.svg"), url("./images/icon-star.svg"),
+    url("./images/icon-star.svg"), url(./images/icon-star.svg),
+    url(./images/icon-star.svg);
+  background-position: 110px 15px, 135px 15px, 160px 15px, 185px 15px,
+    210px 15px;
+  background-repeat: no-repeat;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 10px;
+}
+
+.reviews h5 {
+  margin-top: 50px;
+  color: hsl(300, 43%, 22%);
+}
+
+.reportguru {
+  height: 78px;
+  width: 327px;
+  align-self: center;
+  background-image: url(./images/icon-star.svg), url(./images/icon-star.svg),
+    url(./images/icon-star.svg), url(./images/icon-star.svg),
+    url(./images/icon-star.svg);
+  background-position: 110px 15px, 135px 15px, 160px 15px, 185px 15px,
+    210px 15px;
+  background-repeat: no-repeat;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 10px;
+}
+
+.reportguru h5 {
+  margin-top: 50px;
+  color: hsl(300, 43%, 22%);
+}
+
+.besttech {
+  height: 78px;
+  width: 327px;
+  align-self: center;
+  background-image: url("./images/icon-star.svg"), url(./images/icon-star.svg),
+    url(./images/icon-star.svg), url(./images/icon-star.svg),
+    url(./images/icon-star.svg);
+  background-position: 110px 15px, 135px 15px, 160px 15px, 185px 15px,
+    210px 15px;
+  background-repeat: no-repeat;
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 10px;
+}
+
+.besttech h5 {
+  margin-top: 50px;
+  color: hsl(300, 43%, 22%);
+}
+
+.reviewers {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 50px;
+  width: 327px;
+  height: 776px;
+}
+
+.reviewers img {
+  height: 45px;
+  border-radius: 50px;
+  margin-left: 32px;
+  margin-top: 40px;
+}
+
+.colton {
+  background: hsl(300, 43%, 22%);
+  width: 327px;
+  height: 248px;
+  border-radius: 10px;
+}
+
+.coltonreview {
+  width: 310px;
+  height: 105px;
+}
+
+.colton p {
+  justify-content: left;
+  width: 250px;
+}
+
+.name {
+  color: white;
+  position: relative;
+  left: 95px;
+  top: -66px;
+}
+
+.condition {
+  color: rgb(204, 91, 204);
+  font-weight: 400;
+  position: relative;
+  left: 95px;
+  top: -85px;
+}
+
+.review {
+  color: hsl(300, 24%, 96%);
+  font-weight: 400;
+  margin-left: 33px;
+  margin-right: 33px;
+  font-size: 12px;
+  position: relative;
+  bottom: 75px;
+  line-height: 22px;
+  width: 250px;
+}
+
+.irene {
+  background: hsl(300, 43%, 22%);
+  width: 327px;
+  height: 248px;
+  border-radius: 10px;
+}
+
+.irenereview {
+  width: 310px;
+  height: 105px;
+}
+
+.irene p {
+  justify-content: left;
+  width: 250px;
+}
+
+.anne {
+  background: hsl(300, 43%, 22%);
+  width: 327px;
+  height: 248px;
+  border-radius: 10px;
+}
+
+.annereview {
+  width: 310px;
+  height: 105px;
+}
+
+.anne p {
+  justify-content: left;
+  width: 240px;
+}
+
+.attribution {
+  margin-top: 50px;
+}
+
+@media screen and (min-width: 1440px) {
+  body {
+    font-size: 15px;
+    font-family: "Spartan";
+    background-image: url("./images/bg-pattern-top-desktop.svg"),
+      url("./images/bg-pattern-bottom-desktop.svg");
+    background-position: 0px 0px, 300px 200px;
+    background-repeat: no-repeat, no-repeat;
+    height: 100%;
+    width: 100%;
+    display: flex;
+  }
+
+  .container {
+    height: 100%;
+    width: 100%;
+    margin-left: 7%;
+  }
+
+  .introduction {
+    height: 480px;
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    align-items: center;
+    margin-left: 60px;
+    color: hsl(300, 43%, 22%);
+  }
+
+  .title {
+    text-align: left;
+    font-size: 24px;
+    width: 400px;
+    margin-left: 86px;
+  }
+
+  .subtitle {
+    height: 100px;
+    width: 480px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 165px;
+  }
+
+  .ratings {
+    height: 230px;
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    margin-left: 600px;
+    margin-right: 143px;
+    margin-top: -300px;
+  }
+
+  .reviews {
+    height: 56px;
+    width: 445px;
+    align-self: center;
+    background-image: url(icon-star.svg), url(icon-star.svg), url(icon-star.svg),
+      url(icon-star.svg), url(icon-star.svg);
+    background-position: 35px 23px, 60px 23px, 85px 23px, 110px 23px, 135px 23px;
+    background-repeat: no-repeat;
+    background-color: hsl(300, 24%, 96%);
+  }
+
+  .reviews h5 {
+    margin-top: 25px;
+    margin-left: 100px;
+  }
+
+  .reportguru {
+    height: 56px;
+    width: 445px;
+    align-self: center;
+    background-image: url(icon-star.svg), url(icon-star.svg), url(icon-star.svg),
+      url(icon-star.svg), url(icon-star.svg);
+    background-position: 35px 23px, 60px 23px, 85px 23px, 110px 23px, 135px 23px;
+    background-repeat: no-repeat;
+    background-color: hsl(300, 24%, 96%);
+    margin-left: 100px;
+  }
+
+  .reportguru h5 {
+    margin-top: 25px;
+    margin-left: 100px;
+  }
+
+  .besttech {
+    height: 56px;
+    width: 445px;
+    align-self: center;
+    background-image: url(icon-star.svg), url(icon-star.svg), url(icon-star.svg),
+      url(icon-star.svg), url(icon-star.svg);
+    background-position: 35px 23px, 60px 23px, 85px 23px, 110px 23px, 135px 23px;
+    background-repeat: no-repeat;
+    background-color: hsl(300, 24%, 96%);
+    margin-left: 200px;
+  }
+
+  .besttech h5 {
+    margin-top: 25px;
+    margin-left: 100px;
+  }
+
+  .reviewers {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: space-between;
+    width: 1140px;
+    height: 310px;
+    margin-left: 50px;
+  }
+
+  .colton {
+    width: 350px;
+    height: 234px;
+  }
+
+  .coltonreview {
+    width: 327px;
+    height: 156px;
+  }
+
+  .colton p {
+    justify-content: left;
+    width: 270px;
+  }
+
+  .irene {
+    width: 350px;
+    height: 234px;
+    margin-top: 35px;
+  }
+
+  .irenereview {
+    width: 327px;
+    height: 156px;
+  }
+
+  .irene p {
+    justify-content: left;
+    width: 270px;
+  }
+
+  .anne {
+    width: 350px;
+    height: 234px;
+    margin-top: 70px;
+  }
+
+  .annereview {
+    width: 327px;
+    height: 156px;
+  }
+
+  .anne p {
+    justify-content: left;
+    width: 270px;
+  }
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }

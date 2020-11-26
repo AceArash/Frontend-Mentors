@@ -135,8 +135,8 @@ footer .social a {
   transform: translateY(-3px);
 }
 
-footer .links ul:hover,
-footer .social ul:hover {
+.links li a:hover,
+.social li a:hover {
   color: var(--strong-cyan);
 }
 

@@ -1,0 +1,29 @@
+/* Import Fonts from Google */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Fonts : 
+font-family:  */
+
+
+body {
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(233, 47%, 7%);
+    color: hsl(0, 0%, 100%);
+}
+
+.bigger-div{
+    background-color: hsl(244, 38%, 16%);
+}
+
+.main-paragraph{
+    font-family: 'Lexend Deca', sans-serif;
+}

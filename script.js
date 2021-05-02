@@ -15,7 +15,8 @@ const projects = [
     'signup-form-master',
     'single-price-grid-component-master',
     'social-proof-section-master',
-    'static-job-listings-master'
+    'static-job-listings-master',
+    'stats-preview-card-component-main'
 
 ];
 

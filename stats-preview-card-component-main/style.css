@@ -3,18 +3,16 @@
 
 
 * {
-    margin: 0;
-    padding: 0;
+    box-sizing: border-box;
 }
 
-
-
-/* Fonts : 
-font-family:  */
-
-
 body {
+    width: 1440px;
     font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     font-family: 'Inter', sans-serif;
     background-color: hsl(233, 47%, 7%);
     color: hsl(0, 0%, 100%);
@@ -22,7 +20,12 @@ body {
 
 .bigger-div{
     background-color: hsl(244, 38%, 16%);
+    margin: 60px 100px;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
 }
+
 
 .main-paragraph{
     font-family: 'Lexend Deca', sans-serif;

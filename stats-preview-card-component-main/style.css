@@ -4,13 +4,15 @@
 
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     width: 1440px;
     font-size: 15px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     align-items: center;
     justify-content: center;
     font-family: 'Inter', sans-serif;

@@ -16,7 +16,7 @@ Frontend Mentors Challenges🚀 :
 
 7.  Insure Landing Page - Link (https://serene-ptolemy-9a4429.netlify.app/insure-landing-page-master/index.html)
 
-8   Huddle Single Section - Link (https://serene-ptolemy-9a4429.netlify.app/huddle-landing-page-with-single-introductory-section-master/index.html)
+8.  Huddle Single Section - Link (https://serene-ptolemy-9a4429.netlify.app/huddle-landing-page-with-single-introductory-section-master/index.html)
 
 9.  Fylo Landing Page - Link (https://serene-ptolemy-9a4429.netlify.app/fylo-landing-page-with-two-column-layout-master/index.html)
 
